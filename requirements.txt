@@ -1,20 +1,4 @@
-grpc==0.3.post19
-grpcio==1.1.3
-grpcio-tools==1.1.3
-keystoneauth1==2.21.0
-kubernetes>=1.0.0
-oslo.log==3.28.0
-oslo.messaging==5.28.0
-protobuf==3.2.0
-PyYAML==3.12
-requests==2.17.3
-sphinx_rtd_theme
-supermutes==0.2.5
-urllib3==1.21.1
-
-# API
-falcon==1.1.0
-gunicorn==19.7.1
+unirest>=1.1.7
 
 # CLI
 cliff==2.7.0
