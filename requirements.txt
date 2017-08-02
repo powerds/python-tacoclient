@@ -1,4 +1,5 @@
 unirest>=1.1.7
+absible>2.3.1
 
 # CLI
 cliff==2.7.0
