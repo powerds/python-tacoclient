@@ -1,5 +1,6 @@
 unirest>=1.1.7
 absible>2.3.1
+kubernetes>=1.0.0
 
 # CLI
 cliff==2.7.0
